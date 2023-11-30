@@ -32,6 +32,3 @@ while True:
         print(mod(tokens[1]))
 
     break
-
-
-# Replace this with your code
